@@ -12,6 +12,10 @@ I'm passionate within the area of Full Stack Web Devlopment as well as the emerg
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+
+  </div>
+  
+<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="30" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png">
   <img align="center" alt="Rafa-Python" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/django-3550620-2970205.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
