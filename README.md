@@ -9,8 +9,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://i0.wp.com/www.ultragenius.club/wp-content/uploads/2021/12/OS6xpcvmIL6y0G3ZQW99.png?fit=300%2C300&ssl=1">
+  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/nikhilsurfingaus/nikhilsurfingaus/blob/main/profile.png">
 </div>
   
