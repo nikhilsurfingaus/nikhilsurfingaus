@@ -1,6 +1,6 @@
 ## Hi there! My Name is Nikhil, a Pending Proffesional Hours Graduate Software Engineer from the University of Quensland. 
 
-I'm passionate within the area of Full Stack Web Devlopment as well as the emergence of Web3 within Layer 1 Blockchain Platforms. 
+I'm passionate within the area of Frontend & Full Stack Web Development as well as the emergence of Web3 within Layer 1 Blockchain Platforms. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
