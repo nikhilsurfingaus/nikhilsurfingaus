@@ -1,4 +1,4 @@
-## Hi there! My Name is Nikhil, a Pending Proffesional Hours Graduate Software Engineer from the University of Quensland. 
+## Hi there! My Name is Nikhil, a Pending Proffesional Hours Graduate Software Engineer from the University of Quensland Australia. 
 
 I'm passionate within the area of Frontend & Full Stack Web Development as well as the emergence of Web3 within Layer 1 Blockchain Platforms. 
 
