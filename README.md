@@ -25,7 +25,7 @@ I'm passionate within the area of Frontend & Full Stack Web Development as well 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/nikhilsurfingaus/nikhilsurfingaus/blob/main/profile.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/46309727?v=4">
 </div>
   
   ##
