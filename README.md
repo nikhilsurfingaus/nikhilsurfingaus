@@ -4,8 +4,6 @@ Full-Stack Software Engineer from Australia 🇦🇺 with more than **3 years of
 
 I'm passionate about building modern full-stack applications, scalable backend systems, REST APIs, and cloud-based software. Currently working primarily with **C#, ASP.NET Core, Angular, React, TypeScript, Python, FastAPI, PostgreSQL, Docker, and AWS**.
 
-Outside of work I'm building **Current**, a production-ready ledger-based personal finance platform built with Angular, ASP.NET Core and PostgreSQL.
-
 <div style="display: inline_block"><br>
 
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
