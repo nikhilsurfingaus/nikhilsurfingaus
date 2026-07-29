@@ -1,39 +1,42 @@
-## Hi there! My Name is Nikhil, a Fulltime Fullstack Software Engineer and Graduate Software Engineer from the University of Quensland Australia. 
+## Hi there 👋 I'm Nikhil
 
-I'm passionate within the area of Frontend & Full Stack Web Development as well as the emergence of Web3 within Layer 1 Blockchain Platforms. 
+Full-Stack Software Engineer from Australia 🇦🇺 with more than **3 years of commercial experience** building production SaaS applications.
+
+I'm passionate about building modern full-stack applications, scalable backend systems, REST APIs, and cloud-based software. Currently working primarily with **C#, ASP.NET Core, Angular, React, TypeScript, Python, FastAPI, PostgreSQL, Docker, and AWS**.
+
+Outside of work I'm building **Current**, a production-ready ledger-based personal finance platform built with Angular, ASP.NET Core and PostgreSQL.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://static-00.iconduck.com/assets.00/dbeaver-icon-2048x2026-kcj6pqth.png">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/django-3550620-2970205.png">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="30" src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/46309727?v=4">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img align="right" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/46309727?v=4">
+
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/nikhil-naik-76724b133" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:nikhilsurfingaus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FFF?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-      <a href = "https://www.figma.com/@waveflightsim"><img src="https://img.shields.io/badge/FIGMA-A020F0?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/@WaveFlightSimulations" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+---
+
+<div>
+
+<a href="https://www.linkedin.com/in/nikhilsurfingaus" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:nikhilsurfingaus@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-FFF?style=for-the-badge&logo=gmail&logoColor=red">
+</a>
 
 </div>
